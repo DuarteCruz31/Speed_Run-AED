@@ -1,6 +1,9 @@
 # AED---SpeedRun
 
-Primeiro Projeto AED 2022/2023 \n
-Nota: 18 \n
+Primeiro Projeto AED 2022/2023 
+
+Nota: 18
+
 André Oliveira
+
 Duarte Cruz
